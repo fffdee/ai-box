@@ -1,0 +1,7 @@
+﻿VLC 版本 3.0.20 Vetinari (3.0.20-0-g6f0d0ab126)
+编译者 videolan 编译时间 runner-sgapdqg-project-435-concurrent-0 (Oct 30 2023 08:47:37)
+编译器: gcc version 6.4.0 (GCC)
+本程序在法律许可范围内 *无任何担保*。
+您可以依照 GNU GPL 许可证的条款再次分发本程序；
+详情请参阅名为 COPYING 的文件。
+由 VideoLAN 团队编写；参见 AUTHORS 文件。

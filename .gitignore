@@ -1,0 +1,67 @@
+# Python virtual environment
+env311/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+temp/
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Model / data files
+*.gguf
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Logs
+*.log
+
+# Downloaded models cache
+models/
